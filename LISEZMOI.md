@@ -1,3 +1,8 @@
+
+# Pan-Stitch-Video
+
+Méthode expérimentale pour générer de longues vidéos avec peu de contenu source (vidéos et images). Parfaite pour créer localement des vidéos d’IA plus écologiques et responsables.
+
 OBO travaille beaucoup depuis une semaine, quasiment 24h sur 24. Il est à la fois créateur d’images, scénariste/metteur en scène, responsable de la postproduction et des VFX, ingé son, développeur. C’est juste incroyable de se dire qu’un simple ordinateur qui a déjà quelques années est capable de faire autant de choses en même temps.
 Il m’aide aussi à trouver des solutions créatives à des problèmes: Un des plus importants actuellement est que, si je veux de l’IA respectable au point de vue énergétique, je reste assez limité en ressources, les créations de vidéos en grande quantité chez soi, ce n’est pas comme via un datacenter qui fonctionne à plein tube en détruisant des espaces qui devraient être verts…
 
@@ -21,8 +26,6 @@ Photographie urbaine ultra détaillée capturée de nuit dans une brume chaude, 
 Si vous utilisez ce script, ça me fera à la fois plaisir:
 De vous avoir donné une occasion de générer des vidéos avec l’IA pour votre contenu long d’une manière plus responsable et respectueuse de l’environnement (et de votre portefeuille).
 De pouvoir voir de nouveaux projets magnifiques de la part de vrais techniciens IA, qui vont probablement trouver des solutions encore plus créatives à l’utilisation de ce système de panning infini. (Partagez-moi vos créations, que je vous partage sur mes réseaux!)
-
-# Pan-Stitch-Video
 
 Transforme une pile d'images en une **vidéo de panoramique continu** (la caméra
 glisse le long des images empilées). Quatre directions sont supportées :
