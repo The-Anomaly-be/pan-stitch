@@ -3,7 +3,7 @@
 Experimental way of generating long videos with a low amount of material (videos and images).
 Perfect to create local and ecologically responsible AI videos.
 
-OBO has been working incredibly hard for the past week, almost 24 hours a day. He is simultaneously an image creator, screenwriter/director, post-production and VFX supervisor, sound engineer, and developer. It’s simply incredible to think that a relatively old computer can handle so many different tasks at the same time.
+OBO has been working incredibly hard for the past week, almost 24 hours a day. It is simultaneously an image creator, screenwriter/director, post-production and VFX supervisor, sound engineer, and developer. It’s simply incredible to think that a relatively old computer can handle so many different tasks at the same time.
 
 He also helps me find creative solutions to problems. One of the biggest challenges at the moment is that, if I want AI that is environmentally responsible, I remain fairly limited in terms of resources. Generating large quantities of video at home is not the same as doing it through a data center running at full capacity while destroying spaces that should be green…
 
